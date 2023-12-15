@@ -1,0 +1,14 @@
+body {
+    background-color: #444;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container {
+    background-color: #FFF;
+    margin: 0 auto;
+    max-width: 800px;
+    min-height: 600px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
